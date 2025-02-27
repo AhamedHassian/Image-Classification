@@ -53,7 +53,7 @@ pip install tensorflow matplotlib numpy
 To execute the code, run:
 
 ```bash
-python image_classification.py
+python image_classification.ipynb
 ```
 
 ---
